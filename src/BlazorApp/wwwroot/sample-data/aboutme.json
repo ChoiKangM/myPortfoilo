@@ -1,12 +1,12 @@
 {
-  "description": "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.",
+  "description": "코딩으로 잘 먹고 잘 살려는 청년, 학생을 돕습니다!",
   "skills": [
-    "Web design",
-    "User experience",
-    "Inclusive design",
-    "Focus group testing",
-    "Mobile user interfaces",
-    "Graphic design"
+    "IT 교육",
+    "스타트업 대표",
+    "비즈니스 개발",
+    "프로젝트 관리",
+    "커뮤니티 관리",
+    "네트워킹"
   ],
-  "detailOrQuote": "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all."
+  "detailOrQuote": "잘 가르치고 잘 놉니다"
 }

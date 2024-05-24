@@ -1,17 +1,17 @@
 [
   {
     "name": "home",
-    "src": "images/woman-with-tablet.jpg",
-    "alt": "woman with glasses holding a tablet"
+    "src": "images/IMG_0934.JPG",
+    "alt": "Hackers Ground Hackathon"
   },
   {
     "name": "about",
-    "src": "images/motion-background.jpg",
-    "alt": "gray abstract background"
+    "src": "images/IMG_1001.jpg",
+    "alt": "Cloud Developer Community"
   },
   {
     "name": "portfolio",
-    "src": "images/design-desk.jpeg",
-    "alt": "desktop with books and laptop"
+    "src": "images/3840x2160-1.png",
+    "alt": "with Microsoft"
   }
 ]
